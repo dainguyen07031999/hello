@@ -16,3 +16,4 @@ while count < n:
 	if (count < n):
 		i = i + 1
 stdio.writeln('So nguyen to thu ' + str(n) + ' la: ' + str(i))
+// Make by me
